@@ -1,5 +1,4 @@
 
-[TOC]
 
 #  This is CodingCoffee Yocto 101 Tutorial
 
